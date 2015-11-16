@@ -1,0 +1,23 @@
+name: "Stu Thom's Grid"
+favicon: null
+layout_spectrum: 0.7043017616961151
+typography_spectrum: 0.3633687635883689
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.021152852568775415
+  lightness: 0.8541634986177087
+  saturation: 0.351341170957312
+  rhythmicContrast: 0.5588769584428519
+purpose: []
