@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stu Thom's first play on the Grid]]></title>
         <description><![CDATA[Stu Thom's first play on the Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stu-thom-s-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 07:36:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 07:36:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stu-thom-s-grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Crocodiles - survivors]]></title>
             <description><![CDATA[<article><h1>Crocodiles - survivors</h1><p>Crocodiles - bloody fascinating creatures really & when you watch this video and read this article, you start to understand how these prehistoric beasts have survived so long. http://www.smh.com.au/environment/crocodiles-in-kakadu-national-park-left-high-and-dry-as-el-nino-delays-rain-20151124-gl6iya.html</p></article>]]></description>
-            <link>undefinedcrocodiles-survivors/index.html</link>
+            <link>https://thegrid.ai/stu-thom-s-grid/crocodiles-survivors/index.html</link>
             <guid isPermaLink="false">172089c7-f6cf-40b6-a53f-24c33edf400c</guid>
-            <pubDate>Tue, 24 Nov 2015 07:35:38 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 07:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
