@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stu Thom's first play on the Grid]]></title>
+        <description><![CDATA[Stu Thom's first play on the Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 07:36:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crocodiles - survivors]]></title>
+            <description><![CDATA[<article><h1>Crocodiles - survivors</h1><p>Crocodiles - bloody fascinating creatures really & when you watch this video and read this article, you start to understand how these prehistoric beasts have survived so long. http://www.smh.com.au/environment/crocodiles-in-kakadu-national-park-left-high-and-dry-as-el-nino-delays-rain-20151124-gl6iya.html</p></article>]]></description>
+            <link>undefinedcrocodiles-survivors/index.html</link>
+            <guid isPermaLink="false">172089c7-f6cf-40b6-a53f-24c33edf400c</guid>
+            <pubDate>Tue, 24 Nov 2015 07:35:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
